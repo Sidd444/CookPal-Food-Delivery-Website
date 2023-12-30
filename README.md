@@ -6,7 +6,7 @@ This project is a responsive web design for a food delivery website. It is built
 
 ## Demo
 
-You can view a live demo of the project [here](https://sidd444.github.io/f2-contest-2/).
+You can view a live demo of the project [here](https://sidd444.github.io/CookPal-Food-Delivery-Website/).
 
 ## Features
 
