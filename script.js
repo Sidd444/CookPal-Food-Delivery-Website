@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "type": "veg",
             "isLiked": false,
             "rating": 4.2
-        },
+        }, 
         {
             "name": "Chicken Grill",
             "imageSrc": "https://source.unsplash.com/random?chicken",
